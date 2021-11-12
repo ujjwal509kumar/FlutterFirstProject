@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Saving the daily progress in branches.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
