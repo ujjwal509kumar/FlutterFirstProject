@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'drawer.dart';
+
 class Homepage extends StatelessWidget {
   String name = "Ujjwal";
 
@@ -15,7 +17,7 @@ class Homepage extends StatelessWidget {
            child: Text("Hey guyz myself $name"),
          ),
         ),
-        drawer: Drawer(),
+        drawer: MyDrawer(),
       );
   }
 }
