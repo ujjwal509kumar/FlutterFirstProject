@@ -3,6 +3,7 @@
 A new Flutter project.
 
 Saving the daily progress in branches.
+You can cheak branches for my daily progress.
 
 ## Getting Started
 
